@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ibook"/>
+	<classpathentry kind="src" path="game"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/steven/Documents/Fre$h/Spring/CS2511/EclipseJars/tester.jar"/>
+	<classpathentry kind="lib" path="/Users/steven/Documents/Fre$h/Spring/CS2511/EclipseJars/javalib.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

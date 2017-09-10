@@ -1,0 +1,23 @@
+WP is a web page with two strings as "URL" and "TITLE", and a list of items.
+Items includes some Text, Image and Link or none.
+Text is a string as contents.
+Image is a image with a string as file name and a string as file type.
+Link includes a string as name and a link to another web page.
+
+Emamples:
+
+WP: with title "Cliff's father" at url "myfamily.org"
+     that contains the following items:
+     -- text "This is my father"
+     -- image of the person in the file "father" of size 400 and file type "png"
+     -- link with the label "Here is my mother" to the web page named "Cliff's mother"
+
+WP: with title "Cliff's mother" at url "myfamily.org"
+     -- text "This is my mother"
+     -- image of the person in the file "mother" of size 430 and file type "jpeg"
+     -- link with the label "Here is my friend" to the web page named "Cliff's friend"
+ 
+WP: with the title "Cliff's friend" at url "myfriend.org"
+    that contains the following items:
+    -- text "This is My frined"
+    -- image of the person in the file "Peter" of size 500 and file type "png"

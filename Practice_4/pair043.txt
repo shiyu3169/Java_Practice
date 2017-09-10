@@ -1,0 +1,12 @@
+// assignment 4
+// pair 043
+// Wright Steven
+// wrights
+// Wang Shiyu
+// shiyu
+
+1/30/13, 6:45pm, wrights, wrights started work on Problem 1
+1/30/13, 7:00pm, wrights, wrigths finished work on Problem 1
+1/30/13, 7:00pm, wrights, wrights started work on Problem 2
+1/30/13, 7:15pm, wrights, wrights sends email to shiyu proposing game should be missile defense.
+

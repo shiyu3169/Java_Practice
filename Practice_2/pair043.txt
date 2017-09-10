@@ -1,0 +1,13 @@
+// assignment 2
+// pair 043
+// Wright Steven
+// wrights
+// Wang Shiyu
+// shiyu
+
+1/15/13 1:35pm, Steven Wright and Shiyu Wang, attend lab 2
+1/15/13 8:27pm, Steven Wright, sends Wang files from lab 2
+1/15/13 9:29pm, Steven Wright, copies relavent sections of lab and attempts problem 3
+1/15/13 9:32pm, Steven Wright, sends Wang assignment 2
+1/20/13 11:40pm, Shiyu Wang, emails notes about assignment 2 back to Wright
+1/21/13 2:13pm, Steven Wright, sends corrected code back to Wang

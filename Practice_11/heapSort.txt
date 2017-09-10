@@ -1,0 +1,32 @@
+// This is the heapsort but we couldn't get it to run with the interactions sort main class
+// We tested it and it worked but it just wasn't compatible with the runner
+
+
+package student;
+
+import java.util.*;
+
+public class Heapsort<T> extends SortingHeapSort<T>{
+  
+  public ArrayList<T> heapsort(ArrayList<T> alist, Comparator<T> comp) {
+    ArrayList<T> a = new ArrayList<T>();
+    ArrayList<T> b = new ArrayList<T>();
+    PriorityQueue<T> q = new PriorityQueue<T>(a, comp);
+    
+    while (alist.size() != 0)
+    {q.insert(alist.remove(0));
+    }
+    
+    while (q.list.size() != 2)
+    {b.add(q.remove(1));
+    	
+    }
+    
+    b.add(q.remove(1));
+    
+    return b;
+    
+    
+  }
+  
+}

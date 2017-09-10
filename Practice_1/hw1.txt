@@ -1,0 +1,11 @@
+;; assignment 1
+;; pair p043
+;; Wright Steven
+;; wrights
+;; Wang Shiyu
+;; shiyu
+
+1/14/12 afternoon, Shiyu Wang, did assignment 1 
+1/15/12 2:40pm, Shiyu Wang and Steven Wright, agreed that after looking over Wang's version Wright would turn in assignment
+1/15/12 6:08pm, Steven Wright, did assignment 1 separately
+1/15/12 7:51pm, Shiyu Wang and Steven Wright, after spotting error in code Wang sent email to Wright which was corrected. Questions regarding all-visited methods fielded by Wright.
